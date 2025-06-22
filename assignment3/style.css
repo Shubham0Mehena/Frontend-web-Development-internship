@@ -253,7 +253,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.galary-section {
+.gallery-section {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -264,7 +264,7 @@ p {
     margin: 0 auto;
 }
 
-.galary-content img {
+.gallery-content img {
     width: 100%;
     max-width: 1024px;
     height: auto;
